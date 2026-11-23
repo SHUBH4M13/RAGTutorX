@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pymupdf
+sentence-transformers
+pinecone
+groq
+python-dotenv
+pydantic-settings
+python-multipart
+langchain-text-splitters
